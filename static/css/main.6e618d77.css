@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}form{max-width:1200px;padding:1rem}form input{background-color:#000;color:#8a2be2;width:50%}form button,form input{border:none;font-size:30px;font-weight:bolder}form button{background-color:#8a2be2;color:#fff;cursor:pointer;width:20%}.list{border-radius:10px;box-shadow:0 0 8px blue;color:#000;cursor:pointer;list-style:none;padding:.5rem;width:800px}.list li{border-radius:8px;box-shadow:0 0 5px #000;display:flex;gap:1rem;justify-content:space-between;padding:1rem;width:100%}
+/*# sourceMappingURL=main.6e618d77.css.map*/
